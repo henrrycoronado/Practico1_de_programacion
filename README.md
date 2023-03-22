@@ -1,2 +1,4 @@
 # Practico1_de_programacion
 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
+numero 2
+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
